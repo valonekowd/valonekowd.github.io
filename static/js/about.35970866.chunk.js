@@ -1,2 +1,0 @@
-(this["webpackJsonppersonal-site"]=this["webpackJsonppersonal-site"]||[]).push([[0],{142:function(e,s,t){"use strict";t.r(s);t(0);var n=t(6);s.default=function(){return Object(n.jsx)("div",{children:"About me"})}}}]);
-//# sourceMappingURL=about.35970866.chunk.js.map

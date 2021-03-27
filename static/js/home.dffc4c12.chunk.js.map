@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Home.js"],"names":["Home"],"mappings":"sHAAA,uBAQeA,UANF,kBACX","file":"static/js/home.dffc4c12.chunk.js","sourcesContent":["import React from 'react'\n\nconst Home = () => (\n  <div>\n    Hi, I'm Dong and currently working as a full-stack developer.\n  </div>\n)\n\nexport default Home\n"],"sourceRoot":""}
