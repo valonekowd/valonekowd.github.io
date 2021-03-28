@@ -1,0 +1,2 @@
+(this["webpackJsonppersonal-site"]=this["webpackJsonppersonal-site"]||[]).push([[2],{177:function(t,e,s){"use strict";s.r(e);s(0);var n=s(6);e.default=function(){return Object(n.jsx)("div",{children:"Contact me"})}}}]);
+//# sourceMappingURL=contact.4da927fe.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Work.js"],"names":["Work"],"mappings":"sHAAA,uBAUeA,UARF,kBACX","file":"static/js/work.902a675f.chunk.js","sourcesContent":["import React from 'react'\n\nconst Work = () => (\n  <div>\n    Recent Work\n\n    chia theo category (Go, React, ...)\n  </div>\n)\n\nexport default Work\n"],"sourceRoot":""}

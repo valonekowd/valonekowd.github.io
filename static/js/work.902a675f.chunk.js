@@ -1,0 +1,2 @@
+(this["webpackJsonppersonal-site"]=this["webpackJsonppersonal-site"]||[]).push([[6],{175:function(e,t,s){"use strict";s.r(t);s(0);var c=s(6);t.default=function(){return Object(c.jsx)("div",{children:"Recent Work chia theo category (Go, React, ...)"})}}}]);
+//# sourceMappingURL=work.902a675f.chunk.js.map
